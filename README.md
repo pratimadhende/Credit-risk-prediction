@@ -95,6 +95,7 @@ The model provides reliable predictions for credit risk assessment
 
 Pratima Dhende
 B.Sc. Computer Science (Final Year)
+
 ---
 
 ## ⭐ Conclusion
@@ -111,3 +112,4 @@ The trained model and scaler are saved using *Joblib*:
 ```text
 credit_risk_model.pkl
 scaler.pkl
+
