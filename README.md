@@ -79,14 +79,6 @@ These visualizations help in *model interpretability and decision-making*.
 
 ---
 
-## 💾 Model Saving
-The trained model and scaler are saved using *Joblib*:
-```text
-credit_risk_model.pkl
-scaler.pkl
-
----
-
 ## 🚀 Results & Insights
 
 Random Forest outperformed other models based on ROC-AUC score
@@ -103,11 +95,19 @@ The model provides reliable predictions for credit risk assessment
 
 Pratima Dhende
 B.Sc. Computer Science (Final Year)
-
-
 ---
 
 ## ⭐ Conclusion
 
 This project demonstrates a complete end-to-end machine learning pipeline, from data preprocessing 
+
 to model deployment readiness, following industry-level best practices in credit risk modeling.
+
+---
+
+
+## 💾 Model Saving
+The trained model and scaler are saved using *Joblib*:
+```text
+credit_risk_model.pkl
+scaler.pkl
