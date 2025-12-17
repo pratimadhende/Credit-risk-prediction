@@ -106,10 +106,26 @@ to model deployment readiness, following industry-level best practices in credit
 
 ---
 
+## Plot Preview(Visualization)
+
+Confusion Matrix
+<br>
+<br>
+
+<img src="https://github.com/pratimadhende/Credit-risk-prediction/blob/ec247de80de65a100b3494bf2e8f174d937e9208/confusion_matrix.png" alt="Image Description" width="600">
+<br>
+<br>
+Feature Importance
+<br>
+<br>
+<img src="https://github.com/pratimadhende/Credit-risk-prediction/blob/ec247de80de65a100b3494bf2e8f174d937e9208/feature_importance.png" alt="Image Description" width="600">
+
+---
 
 ## 💾 Model Saving
 The trained model and scaler are saved using *Joblib*:
 ```text
 credit_risk_model.pkl
 scaler.pkl
+
 
